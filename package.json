@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "simple node js application",
+  "main": "y",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
